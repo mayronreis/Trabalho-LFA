@@ -1,0 +1,15 @@
+O programa funciona da seguinte forma: 
+
+O arquivo "quintupla.txt" contém a quintupla do autômato. Na primeira linha deve-se colocar os estados 
+do autômato. Na segunda linha deve conter o alfabeto utilizado. Da terceira linha até a antepenúltima
+linha conten as regras do estado. Na penultima linha é colocado o estado inicial e na ultima contén
+os estados finais do autômato.
+
+Todos os elementos deste arquivo deve ser separado por virgulas.
+As regras do autômato devem estar alocadas de forma que fique apenas uma por linha.
+
+O arquivo "palavras.txt" contem as palavras a serem testadas, cada palavra deve ficar em uma linha 
+e as palavras devem ser dispostas de forma sequencial. Exemplo: 0010101.
+
+O arquivo "saida.txt" fornece as respostas do autômato, aprovando ou rejeitando uma determinada
+palavra.

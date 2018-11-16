@@ -1,0 +1,4 @@
+0100 - Aceita 
+0000 - Aceita 
+1111 - Rejeita 
+1222 - Aceita 
